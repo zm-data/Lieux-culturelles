@@ -1,0 +1,10 @@
+folium==0.15.1
+fuzzywuzzy==0.18.0
+ipython==8.15.0
+ipywidgets==8.0.4
+matplotlib==3.7.2
+pandas==2.0.3
+seaborn==0.13.1
+streamlit==1.29.0
+streamlit_folium==0.18.0
+Unidecode==1.2.0
